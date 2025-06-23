@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/bba32ad5-23fd-45cd-ae9b-00827b470ea4)
-
+"C:\Users\juani\Downloads\github-header-image (1).png"
 
 # 👋 ¡Hola! Soy Juan Ignacio Matus
 
