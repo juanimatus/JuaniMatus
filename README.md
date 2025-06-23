@@ -15,7 +15,7 @@ Aplicación de escritorio multiplataforma que optimiza la gestión de pedidos, i
 
 ---
 
-### 🌱 [App Medioambiental – AIconcagua: Mendoza sin basura](https://github.com/tuusuario/app_basural_cero)
+### 🌱 [App Medioambiental – AIconcagua: Mendoza sin basura](https://github.com/juanimatus/app_basural_cero)
 Plataforma que combina sensores IoT, mapas interactivos y participación ciudadana para erradicar basurales en zonas vulnerables, comenzando por Mendoza.
 
 > **Stack:** React · Node.js · MongoDB · ESP32 · Leaflet · Firebase
