@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/4d3948d4-9bbc-4df7-a3e9-76b1a72d158d)
+![github-header-image (2)](https://github.com/user-attachments/assets/ab0d5fc3-6c49-4401-aca9-70507fbec427)
 
 # 👋 ¡Hola! Soy Juan Ignacio Matus
 
