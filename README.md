@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/bba32ad5-23fd-45cd-ae9b-00827b470ea4)
+
+
 # 👋 ¡Hola! Soy Juan Ignacio Matus
 
 🧑‍💻 Estudiante de Analista Programador Universitario con pasión por crear soluciones tecnológicas con impacto social, ecológico y comunitario.
