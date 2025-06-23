@@ -8,19 +8,17 @@ Me gusta aplicar lo técnico a problemas reales. También exploro la ciberseguri
 
 ## 🚀 Proyectos destacados
 
-### 🍔 [Sistema de Gestión para Restaurantes](https://github.com/juanimatus/proyecto_restaurantes)
-Aplicación de escritorio multiplataforma que optimiza la gestión de pedidos, impresión en cocina y control contable. Ideal para locales con poco acceso a herramientas digitales.
-
-> **Stack:** Python · SQLite · GUI (Tkinter/PyQt) · PrintNode API · Windows 10 LTSC
-
----
-
 ### 🌱 [App Medioambiental – AIconcagua: Mendoza sin basura](https://github.com/juanimatus/app_basural_cero)
 Plataforma que combina sensores IoT, mapas interactivos y participación ciudadana para erradicar basurales en zonas vulnerables, comenzando por Mendoza.
 
 > **Stack:** React · Node.js · MongoDB · ESP32 · Leaflet · Firebase
 
 ---
+
+### 🍔 [Sistema de Gestión para Restaurantes](https://github.com/juanimatus/proyecto_restaurantes)
+Aplicación de escritorio multiplataforma que optimiza la gestión de pedidos, impresión en cocina y control contable. Ideal para locales con poco acceso a herramientas digitales.
+
+> **Stack:** Python · SQLite · GUI (Tkinter/PyQt) · PrintNode API · Windows 10 LTSC
 
 ## 🛠️ Habilidades
 
