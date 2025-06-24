@@ -1,3 +1,6 @@
+---![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/user-attachments/assets/6daef5dd-5315-4bc3-b026-afd06dd65b92)
+
+
 # 👋 ¡Hola! Soy Juan Ignacio Matus
 
 🧑‍💻 Estudiante de Analista Programador Universitario con pasión por crear soluciones tecnológicas con impacto social, ecológico y comunitario.
@@ -13,7 +16,7 @@ Plataforma que combina sensores IoT, mapas interactivos y participación ciudada
 
 > **Stack:** React · Node.js · MongoDB · ESP32 · Leaflet · Firebase
 
----
+
 
 ### 🍔 [Sistema de Gestión para Restaurantes](https://github.com/juanimatus/proyecto_restaurantes)
 Aplicación de escritorio multiplataforma que optimiza la gestión de pedidos, impresión en cocina y control contable. Ideal para locales con poco acceso a herramientas digitales.
