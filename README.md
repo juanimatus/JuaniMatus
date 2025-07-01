@@ -21,7 +21,7 @@ Plataforma que combina sensores IoT, mapas interactivos y participación ciudada
 ### 🍔 [Sistema de Gestión para Restaurantes](https://github.com/juanimatus/proyecto_restaurantes)
 Aplicación de escritorio multiplataforma que optimiza la gestión de pedidos, impresión en cocina y control contable. Ideal para locales con poco acceso a herramientas digitales.
 
-> **Stack:** Python · SQLite · GUI (Tkinter/PyQt) · PrintNode API · Windows 10 LTSC
+> **Stack:** Python · SQLite · GUI (Tkinter/PyQt) · PrintNode API
 
 ## 🛠️ Habilidades
 
